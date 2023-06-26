@@ -30,3 +30,4 @@ document.getElementById('click2').addEventListener('click', function() {
 console.log('Documento desarrollado por Gimenez Franco')
 
 //Documento desarrollado por Gimenez Franco
+
